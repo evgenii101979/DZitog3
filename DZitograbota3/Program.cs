@@ -16,3 +16,17 @@ for (int i = 0; i < n; i++)
 {
     Console.Write(startArray[i] + ", ");
 }
+string[] endArray = new string[n];
+
+void FinalArrayResult(string[] startArray, string[] endArray)
+{
+    int count = 0;
+    for (int i = 0; i < startArray.Length; i++)
+    {
+        if (startArray[i].Length <= 3)
+        {
+            endArray[count] = startArray[i];
+            count++;
+        }
+    }
+}
