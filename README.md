@@ -12,5 +12,5 @@
 
 ---
 
-__Программа решения задачи: DZitog3/DZitograbota3/Program.cs__
+__[Программа решения задачи:] https://github.com/evgenii101979/DZitog3/blob/main/DZitograbota3/Program.cs__
 ---
